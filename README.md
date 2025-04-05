@@ -11,7 +11,6 @@
 <a href="https://github.com/Luciano2978"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
 
 - 🎓 Soy estudiante de Licenciatura en Sistemas de Información.
-- 💻 Actualmente estoy trabajando en [CanchasPlay](https://canchas-play-front-end.vercel.app/)
 
 
 
